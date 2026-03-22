@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NationalParks>
+  <NationalPark NearestAirport="Phoenix Sky Harbor International Airport" Rating="5">
+    <Name>Grand Canyon National Park</Name>
+    <Phone>(928) 638-7888</Phone>
+    <Phone>(928) 638-7496</Phone>
+    <Address>
+      <Number>20</Number>
+      <Street>South Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark NearestAirport="Yellowstone Airport" Rating="5">
+    <Name>Yellowstone National Park</Name>
+    <Phone>(307) 344-7381</Phone>
+    <Address>
+      <Number>2</Number>
+      <Street>Off Grand Loop Road</Street>
+      <City>Yellowstone National Park</City>
+      <State>WY</State>
+      <Zip>82190</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark NearestAirport="Jackson Hole Airport" Rating="5">
+    <Name>Grand Teton National Park</Name>
+    <Phone>(307) 739-3300</Phone>
+    <Address>
+      <Number>103</Number>
+      <Street>Moose Wilson Road</Street>
+      <City>Moose</City>
+      <State>WY</State>
+      <Zip>83012</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark NearestAirport="McGhee Tyson Airport">
+    <Name>Great Smoky Mountains National Park</Name>
+    <Phone>(865) 436-1200</Phone>
+    <Address>
+      <Number>107</Number>
+      <Street>Park Headquarters Road</Street>
+      <City>Gatlinburg</City>
+      <State>TN</State>
+      <Zip>37738</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark NearestAirport="Fresno Yosemite International Airport" Rating="5">
+    <Name>Yosemite National Park</Name>
+    <Phone>(209) 372-0200</Phone>
+    <Address>
+      <Number>9035</Number>
+      <Street>Village Drive</Street>
+      <City>Yosemite Valley</City>
+      <State>CA</State>
+      <Zip>95389</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark NearestAirport="Bozeman Yellowstone International Airport">
+    <Name>Glacier National Park</Name>
+    <Phone>(406) 888-7800</Phone>
+    <Address>
+      <Number>64</Number>
+      <Street>Grinnell Drive</Street>
+      <City>West Glacier</City>
+      <State>MT</State>
+      <Zip>59936</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark NearestAirport="Salt Lake City International Airport" Rating="4">
+    <Name>Zion National Park</Name>
+    <Phone>(435) 772-3256</Phone>
+    <Address>
+      <Number>1</Number>
+      <Street>Zion Park Boulevard</Street>
+      <City>Springdale</City>
+      <State>UT</State>
+      <Zip>84767</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark NearestAirport="Canyonlands Field Airport">
+    <Name>Arches National Park</Name>
+    <Phone>(435) 719-2299</Phone>
+    <Address>
+      <Number>11</Number>
+      <Street>Arches Entrance Road</Street>
+      <City>Moab</City>
+      <State>UT</State>
+      <Zip>84532</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark NearestAirport="Harry Reid International Airport" Rating="4">
+    <Name>Death Valley National Park</Name>
+    <Phone>(760) 786-3200</Phone>
+    <Address>
+      <Number>1</Number>
+      <Street>Death Valley Road</Street>
+      <City>Death Valley</City>
+      <State>CA</State>
+      <Zip>92328</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark NearestAirport="Portland International Jetport">
+    <Name>Acadia National Park</Name>
+    <Phone>(207) 288-3338</Phone>
+    <Address>
+      <Number>25</Number>
+      <Street>Visitor Center Road</Street>
+      <City>Bar Harbor</City>
+      <State>ME</State>
+      <Zip>04609</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark NearestAirport="Seattle-Tacoma International Airport" Rating="5">
+    <Name>Olympic National Park</Name>
+    <Phone>(360) 565-3130</Phone>
+    <Address>
+      <Number>3002</Number>
+      <Street>Mount Angeles Road</Street>
+      <City>Port Angeles</City>
+      <State>WA</State>
+      <Zip>98362</Zip>
+    </Address>
+  </NationalPark>
+</NationalParks>
